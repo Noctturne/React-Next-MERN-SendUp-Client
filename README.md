@@ -1,2 +1,2 @@
 # React/Next/MERN/SendUp-Client
- Front end de un sitio web para compartir archivos con Vue
+ Front end de un sitio web para compartir archivos con React
